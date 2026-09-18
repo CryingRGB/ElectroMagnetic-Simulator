@@ -19,6 +19,7 @@ The simulator allows users to interact with electromagnetic objects and visualiz
 - Magnetic field visualization
 - Electric potential visualization
 - Interactive objects
+- Euler and Boris Integration
 - Pause/resume simulation
 - 120 FPS target
 
@@ -49,5 +50,5 @@ Objects can be interacted with using the mouse.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Electromagnetic-Field-Simulator.git
-cd Electromagnetic-Field-Simulator
+git clone https://github.com/CryingRGB/ElectroMagnetic-Simulator.git
+cd ElectroMagnetic-Simulator
